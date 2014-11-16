@@ -1,0 +1,29 @@
+LISEZ MOI - GNIII GAME 1.0 :
+----------------------------
+
+Informations à l'utilisateur :
+------------------------------
+
+GNIII GAME 1.0 est plus un petit prototype qu'un jeu complet. Il est donc court et buggé. Ne vous étonnez pas si vous constatez des bugs plus ou moins cocasses ;)
+Le jeu a tendance a ramer sur les machines un peu anciennes (ce qui est loin d'être normal). En effet, la librairie graphique utilisée est assez lente et mon code y est surement pour quelque chose aussi !
+
+Note : Le jeu n'est pas très fluide sous Vista, c'est normal. En effet, la librairie utilisée pour l'affichage graphique a visiblement quelques soucis de compatibilité avec le dernier système d'exploitation de Microsoft.
+
+Crédits :
+---------
+
+Idée originale du jeu : FoSt
+
+Programmation : Dureflex - Langage C avec l'utilisation de la librairie SDL pour les graphismes et FMOD pour le son
+
+Musiques :
+
+1) GNIII WORLD : Treasure Trove Cove (Grant Kirkhope - Banjo-Kazooie Soundtrack)
+2) TANIERE D'AL KASHI : Phenomena (Sagisu Shiro - BLEACH Original Soundtrack 2)
+3) PLAINE DE PYTHAGORE : Stop Da Pop (Skankfunk - Air Gear OST - What a Groovy Trick! Soundtrack)
+4) ANTRE DE FERMAT : Ghosts (Susumu Hirasawa - [S/T] Berserk Original Soundtrack)
+Toutes les musiques ont été trouvées par FoSt et sont issues de manga et/ou de jeux vidéos.
+
+Graphismes : issus de Super Mario Bros plus quelques uns personnalisés.
+
+Remerciements à tous les testeurs du jeux ;)

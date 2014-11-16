@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="GNIII Game 1.0" />
+		<Option pch_mode="0" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="default">
+				<Option output="gniii_game.exe" prefix_auto="0" extension_auto="0" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Option projectResourceIncludeDirsRelation="0" />
+			</Target>
+		</Build>
+		<VirtualTargets>
+			<Add alias="All" targets="default;" />
+		</VirtualTargets>
+		<Compiler>
+			<Add option="-W" />
+			<Add option="-Wall" />
+		</Compiler>
+		<Linker>
+			<Add library="mingw32" />
+			<Add library="SDLmain" />
+			<Add library="SDL" />
+			<Add library="C:\Program Files\CodeBlocks\MinGW\lib\SDL_image.lib" />
+			<Add library="C:\Program Files\CodeBlocks\MinGW\lib\SDL_ttf.lib" />
+			<Add library="C:\Program Files\CodeBlocks\MinGW\lib\libfmod.a" />
+		</Linker>
+		<Unit filename="animations.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="animations.h" />
+		<Unit filename="boss.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="boss.h" />
+		<Unit filename="bots.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="bots.h" />
+		<Unit filename="constantes.h" />
+		<Unit filename="editeur.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="editeur.h" />
+		<Unit filename="jeu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="jeu.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="niveau.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="niveau.h" />
+		<Unit filename="perso.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="perso.h" />
+		<Unit filename="ressources.rc">
+			<Option compilerVar="WINDRES" />
+		</Unit>
+		<Unit filename="son.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="son.h" />
+		<Unit filename="structures.h" />
+		<Unit filename="time.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="time.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

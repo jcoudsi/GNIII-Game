@@ -1,0 +1,255 @@
+# depslib dependency file v1.0
+1204045251 d:\julien\informatique\programmation\c\programmes\sdl\gniii game\gniii game 1.0\editeur.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"constantes.h"
+	"niveau.h"
+
+1224936520 d:\julien\informatique\programmation\c\programmes\sdl\gniii game\gniii game 1.0\constantes.h
+
+1213736440 d:\julien\informatique\programmation\c\programmes\sdl\gniii game\gniii game 1.0\niveau.h
+	"constantes.h"
+
+1204324078 d:\julien\informatique\programmation\c\programmes\sdl\gniii game\gniii game 1.0\jeu.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<FMOD/fmod.h>
+	"constantes.h"
+	"structures.h"
+	"jeu.h"
+	"bots.h"
+	"perso.h"
+	"animations.h"
+	"time.h"
+
+1224929112 d:\julien\informatique\programmation\c\programmes\sdl\gniii game\gniii game 1.0\structures.h
+	<FMOD/fmod.h>
+
+1224929660 d:\julien\informatique\programmation\c\programmes\sdl\gniii game\gniii game 1.0\jeu.h
+
+1221763097 d:\julien\informatique\programmation\c\programmes\sdl\gniii game\gniii game 1.0\bots.h
+
+1221766069 d:\julien\informatique\programmation\c\programmes\sdl\gniii game\gniii game 1.0\perso.h
+
+1204035197 d:\julien\informatique\programmation\c\programmes\sdl\gniii game\gniii game 1.0\main.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"niveau.h"
+	"constantes.h"
+	"structures.h"
+	"jeu.h"
+	"editeur.h"
+
+1193083026 d:\julien\informatique\programmation\c\programmes\sdl\gniii game\gniii game 1.0\editeur.h
+
+1204043782 d:\julien\informatique\programmation\c\programmes\sdl\gniii game\gniii game 1.0\niveau.c
+	<stdlib.h>
+	<stdio.h>
+	"constantes.h"
+
+1204324247 d:\julien\informatique\programmation\c\programmes\sdl\gniii game\gniii game 1.0\perso.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<FMOD/fmod.h>
+	"constantes.h"
+	"structures.h"
+	"jeu.h"
+	"bots.h"
+	"perso.h"
+	"animations.h"
+	"time.h"
+
+1204040661 d:\julien\informatique\programmation\c\programmes\sdl\gniii game\gniii game 1.0\bots.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<FMOD/fmod.h>
+	"constantes.h"
+	"structures.h"
+	"animations.h"
+
+1216599946 d:\julien\informatique\programmation\c\programmes\sdl\gniii game\gniii game 1.0\animations.h
+
+1202414929 d:\julien\informatique\programmation\c\programmes\sdl\gniii game\gniii game 1.0\time.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<FMOD/fmod.h>
+	"constantes.h"
+	"structures.h"
+
+1202421262 d:\julien\informatique\programmation\c\programmes\sdl\gniii game\gniii game 1.0\animations.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<FMOD/fmod.h>
+	"constantes.h"
+	"structures.h"
+
+1203982265 d:\julien\informatique\programmation\c\programmes\sdl\gniii game\gniii game 1.0\time.h
+
+1203979321 d:\julien\informatique\programmation\c\programmes\sdl\gniii game\gniii game 1.0\environnement.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<FMOD/fmod.h>
+	"constantes.h"
+	"structures.h"
+	"jeu.h"
+	"bots.h"
+	"perso.h"
+	"animations.h"
+	"time.h"
+	"environnement.h"
+
+1203979321 d:\julien\informatique\programmation\c\programmes\sdl\gniii game\gniii game 1.0\environnement.h
+
+1221763097 source:d:\julien\informatique\programmation\c\programmes\sdl\gniii game\gniii game 1.0\bots.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<FMOD/fmod.h>
+	"constantes.h"
+	"structures.h"
+	"animations.h"
+	"perso.h"
+
+1224936729 source:d:\julien\informatique\programmation\c\programmes\sdl\gniii game\gniii game 1.0\editeur.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"constantes.h"
+	"niveau.h"
+
+1224942325 source:d:\julien\informatique\programmation\c\programmes\sdl\gniii game\gniii game 1.0\jeu.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<FMOD/fmod.h>
+	<math.h>
+	<time.h>
+	"constantes.h"
+	"structures.h"
+	"jeu.h"
+	"bots.h"
+	"perso.h"
+	"animations.h"
+	"time.h"
+	"son.h"
+	"boss.h"
+	"niveau.h"
+
+1224939706 source:d:\julien\informatique\programmation\c\programmes\sdl\gniii game\gniii game 1.0\main.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"niveau.h"
+	"constantes.h"
+	"structures.h"
+	"jeu.h"
+	"editeur.h"
+
+1213796088 source:d:\julien\informatique\programmation\c\programmes\sdl\gniii game\gniii game 1.0\niveau.c
+	<stdlib.h>
+	<stdio.h>
+	"constantes.h"
+
+1222282455 source:d:\julien\informatique\programmation\c\programmes\sdl\gniii game\gniii game 1.0\perso.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<FMOD/fmod.h>
+	"constantes.h"
+	"structures.h"
+	"jeu.h"
+	"bots.h"
+	"perso.h"
+	"animations.h"
+	"time.h"
+	"son.h"
+
+1202418529 source:d:\julien\informatique\programmation\c\programmes\sdl\gniii game\gniii game 1.0\time.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<FMOD/fmod.h>
+	"constantes.h"
+	"structures.h"
+
+1216602556 source:d:\julien\informatique\programmation\c\programmes\sdl\gniii game\gniii game 1.0\animations.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<FMOD/fmod.h>
+	"constantes.h"
+	"structures.h"
+
+1213736440 d:\julien\informatique\programmation\c\programmes\sdl\gniii game\gniii game 1.0\son.h
+
+1224936728 source:d:\julien\informatique\programmation\c\programmes\sdl\gniii game\gniii game 1.0\son.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<FMOD/fmod.h>
+	"constantes.h"
+	"structures.h"
+	"son.h"
+
+1221572784 source:d:\julien\informatique\programmation\c\programmes\sdl\gniii game\gniii game 1.0\boss.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<FMOD/fmod.h>
+	<time.h>
+	"constantes.h"
+	"structures.h"
+	"jeu.h"
+	"bots.h"
+	"perso.h"
+	"animations.h"
+	"time.h"
+	"son.h"
+	"boss.h"
+
+1216647133 d:\julien\informatique\programmation\c\programmes\sdl\gniii game\gniii game 1.0\boss.h
+
+1224939687 source:d:\julien\informatique\programmation\c\programmes\sdl\gniii game\gniii game 1.0\ressources.rc
+
